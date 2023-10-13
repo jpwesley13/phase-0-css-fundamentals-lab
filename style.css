@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+section#featured-property {
+  text-align: center;
+}
+a {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: tomato;
+}
+figcaption {
+  font-size: smaller;
+}
+section#featured-property p {
+  text-align: center;
+  margin: 20px auto;
+  width: 800px;
+}
+div {
+  float: left;
+  background-color: tomato;
+  text-align: center;
+  width: 25%;
+}
+:link {
+  color: white
+}
+:visited {
+  color: yellow;
+}
